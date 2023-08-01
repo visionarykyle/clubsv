@@ -12,6 +12,11 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>The SV</title>
         <link rel="icon" href="/img/favicon.ico" />
+        <meta name="description" content="A new wave of adult entertainment. Welcome to The SV." />
+        <meta name="keywords" content="The SV Vegas Fun" />
+        <meta property="og:title" content="The SV" />
+        <meta property="og:description" content="Your Website Description" />
+        <meta property="og:image" content="URL_TO_IMAGE" />
       </Head>
       <Cursor />
       <LoadingScreen />
