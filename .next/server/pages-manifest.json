@@ -1,9 +1,6 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.html",
-  "/showcase/showcase-dark": "pages/showcase/showcase-dark.html",
-  "/showcase/showcase-light": "pages/showcase/showcase-light.html",
   "/_error": "pages/_error.js",
-  "/404": "pages/404.html"
+  "/": "pages/index.js"
 }
